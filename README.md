@@ -5,6 +5,10 @@ Pesquise por: workbench.action.quickopenview
 
 Atribua:  CTRL + Q
 
+Pesquise por : workbench.action.quit
+
+Atribua: CTRL + Q CTRL + R
+
 Instale:
 https://www.jetbrains.com/pt-br/lp/mono/
 
