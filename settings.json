@@ -1,0 +1,27 @@
+{
+    "workbench.iconTheme": "symbols",
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        {
+            "column": 129,
+            "color": "blue"
+        }
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Hack The Box",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 1,
+    "editor.renderLineHighlight": "gutter",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.editor.labelFormat": "short",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "workbench.activityBar.location": "hidden",
+    "window.menuBarVisibility": "toggle",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.statusBar.visible": false,
+}
