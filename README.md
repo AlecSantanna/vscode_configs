@@ -1,6 +1,7 @@
 Pressione CTRL + K CTRL + S
 
 Pesquise por: workbench.action.quickopenview 
+
 Atribua:  CTRL + Q
 
 Instale:
